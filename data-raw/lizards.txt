@@ -1,0 +1,53 @@
+ Site Diameter Height   Time    Spp  counts
+Sunny   LT2      LT5    early    G    20
+Sunny   LT2      GT5    early    G    13
+Sunny   GT2      LT5    early    G     8
+Sunny   GT2      GT5    early    G     6
+Sunny   LT2      LT5    early    O     2
+Sunny   LT2      GT5    early    O     0
+Sunny   GT2      LT5    early    O     3
+Sunny   GT2      GT5    early    O     0
+Shade   LT2      LT5    early    G    34
+Shade   LT2      GT5    early    G    31
+Shade   GT2      LT5    early    G    17
+Shade   GT2      GT5    early    G    12
+Shade   LT2      LT5    early    O    11
+Shade   LT2      GT5    early    O     5
+Shade   GT2      LT5    early    O    15
+Shade   GT2      GT5    early    O     1
+Sunny   LT2      LT5   midday    G     8
+Sunny   LT2      GT5   midday    G     8
+Sunny   GT2      LT5   midday    G     4
+Sunny   GT2      GT5   midday    G     0
+Sunny   LT2      LT5   midday    O     1
+Sunny   LT2      GT5   midday    O     0
+Sunny   GT2      LT5   midday    O     1
+Sunny   GT2      GT5   midday    O     0
+Shade   LT2      LT5   midday    G    69
+Shade   LT2      GT5   midday    G    55
+Shade   GT2      LT5   midday    G    60
+Shade   GT2      GT5   midday    G    21
+Shade   LT2      LT5   midday    O    20
+Shade   LT2      GT5   midday    O     4
+Shade   GT2      LT5   midday    O    32
+Shade   GT2      GT5   midday    O     5
+Sunny   LT2      LT5     late    G     4
+Sunny   LT2      GT5     late    G    12
+Sunny   GT2      LT5     late    G     5
+Sunny   GT2      GT5     late    G     1
+Sunny   LT2      LT5     late    O     4
+Sunny   LT2      GT5     late    O     0
+Sunny   GT2      LT5     late    O     3
+Sunny   GT2      GT5     late    O     1
+Shade   LT2      LT5     late    G    18
+Shade   LT2      GT5     late    G    13
+Shade   GT2      LT5     late    G     8
+Shade   GT2      GT5     late    G     4
+Shade   LT2      LT5     late    O    10
+Shade   LT2      GT5     late    O     3
+Shade   GT2      LT5     late    O     8
+Shade   GT2      GT5     late    O     4
+
+
+
+
